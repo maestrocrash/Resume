@@ -40,7 +40,7 @@
 
 #### Sqvope - приложения для расчета периметра, площади и объема геометрических фигур.
 
-![scrinsqvope1] [scrinsqvope2] [scrinsqvope3] [scrinsqvope4] [scrinsqvope5]
+![scrinsqvope1] ![scrinsqvope2] ![scrinsqvope3] ![scrinsqvope4] ![scrinsqvope5]
 
 [scrinsqvope1]: https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb.png 
 [scrinsqvope2]: https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-2.png
