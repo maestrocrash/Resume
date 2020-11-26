@@ -41,11 +41,11 @@
 #### Sqvope - приложения для расчета периметра, площади и объема геометрических фигур.
 
 <p align="center">
-  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb.png" width="256" height="455">
-  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-2.png" width="256" height="455">
-  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-3.png" width="256" height="455">
-  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-4.png" width="256" height="455">
-  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-5.png" width="256" height="455">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb.png" width="206" height="405">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-2.png" width="206" height="405">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-3.png" width="206" height="405">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-4.png" width="206" height="405">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-5.png" width="206" height="405">
 </p>
 
 #### BitcoinCourse - приложение для отслеживания курса криптовалюты bitcoin.
