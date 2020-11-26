@@ -34,6 +34,21 @@
 - UIKit
 - Core Data
 
+<hr>
+
+### Разработанные приложения
+
+#### Sqvope - приложения для расчета периметра, площади и объема геометрических фигур.
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+#### BitcoinCourse - приложение для отслеживания курса криптовалюты bitcoin.
+
+
+
+<hr>
 ### Опыт работы
 
 #### Сентябрь 2013 — май 2016
