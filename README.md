@@ -12,6 +12,8 @@
 Разрабатывал приложения с нуля, от идея до выкладывания в AppStore.<br>
 В свободное время занимаюсь чтением технической литературы для повышения уровня своих знаний. 
 
+___
+
 ### Навыки
 #### Разработка приложения.
 - Работа с UIKit.
@@ -50,7 +52,12 @@
 
 #### BitcoinCourse - приложение для отслеживания курса криптовалюты bitcoin.
 
-
+<p align="center">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-6.png" width="206" height="405">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-7.png" width="206" height="405">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-8.png" width="206" height="405">
+  <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-9.png" width="206" height="405">
+</p>
 ___
 
 ### Опыт работы
@@ -101,7 +108,7 @@ ___
 1. Основы языка Swift
 2. Архитектуры и шаблоны проектирования на Swift
 
-#### Наставник курсов по iOS
+##### Наставник курсов по iOS
 Помощь при прохождение курса:
 1. Архитектуры и шаблоны проектирования на Swift
 
