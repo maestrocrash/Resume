@@ -39,12 +39,10 @@
 ### Разработанные приложения
 
 #### Sqvope - приложения для расчета периметра, площади и объема геометрических фигур.
-Reference-style: 
-![logo]
 
-[logo]
+![logo1]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo1]: https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb.png 
 
 #### BitcoinCourse - приложение для отслеживания курса криптовалюты bitcoin.
 
