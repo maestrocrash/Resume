@@ -58,6 +58,7 @@ ___
   <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-8.png" width="206" height="405">
   <img src="https://github.com/maestrocrash/Resume/blob/main/Scrins%20App/1242x2208bb-9.png" width="206" height="405">
 </p>
+
 ___
 
 ### Опыт работы
