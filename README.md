@@ -26,6 +26,9 @@ ___
 - Работа с AutoLayout.
 - Контроль версий с GitHub.
 - Работа с Сетью - Networking.
+- GCD
+- MVP
+- MVVM
 
 #### Стэк
 - Swift
